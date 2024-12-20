@@ -1,7 +1,7 @@
 <div align="center">
   <img src="docs/en/_static/image/lmdeploy-logo.svg" width="450"/>
 
-[![Pa](https://img.shields.io/pypi/v/lmdeploy)](https://pypi.org/project/lmdeploy)
+[![P](https://img.shields.io/pypi/v/lmdeploy)](https://pypi.org/project/lmdeploy)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/lmdeploy)
 [![license](https://img.shields.io/github/license/InternLM/lmdeploy.svg)](https://github.com/InternLM/lmdeploy/tree/main/LICENSE)
 [![issue resolution](https://img.shields.io/github/issues-closed-raw/InternLM/lmdeploy)](https://github.com/InternLM/lmdeploy/issues)
